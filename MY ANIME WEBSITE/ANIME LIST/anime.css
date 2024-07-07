@@ -1,0 +1,23 @@
+body{
+    background-color: rgba(109, 78, 212, 0.397);
+}
+
+.amime_list{
+    text-align: center;
+    background-clip: text;
+    -webkit-background-clip: text; /* Vendor prefix for older browsers */
+    background-image: linear-gradient(to right, rgb(0, 0, 255) 0%, orange 50%, red 50%, red 100%);
+    color: transparent;
+    font-size: 3rem;
+}
+
+.review{
+    text-decoration: none;
+    color: pink;
+}
+
+.review:hover{
+    text-decoration: none;
+    color: rgb(1, 255, 60);
+
+}
